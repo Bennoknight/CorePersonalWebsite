@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  mycoreapp:
+    image: ${DOCKER_REGISTRY-}mycoreapp
+    build:
+      context: .
+      dockerfile: MyCoreApp/Dockerfile
+    ports:
+        - "8080:80"

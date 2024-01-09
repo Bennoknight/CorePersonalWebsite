@@ -1,0 +1,11 @@
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\MyCoreApp.deps.json
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\MyCoreApp.runtimeconfig.json
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\appsettings.Development.json
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\appsettings.json
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\MyCoreApp.staticwebassets.runtime.json
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\MyCoreApp.exe
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\MyCoreApp.dll
+C:\Users\beene\source\repos\MyCoreApp\bin\Debug\MyCoreApp.pdb
+C:\Users\beene\source\repos\MyCoreApp\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\beene\source\repos\MyCoreApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\beene\source\repos\MyCoreApp\obj\Debug\docker-compose.dcproj.CopyComplete
